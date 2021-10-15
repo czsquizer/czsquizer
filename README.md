@@ -11,16 +11,16 @@
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="https://squizer.cz">
-    <img
-      alt="Website"
-      src="https://img.shields.io/badge/website-5865F2?logo=page&logoColor=white&style=for-the-badge"
-    />
-  </a>
+    </a>
     <a href="https://sqz.tebex.io">
     <img
       alt="Tebex"
       src="https://img.shields.io/badge/tebex-7CFC00?logo=tebex&logoColor=white&style=for-the-badge"
     />
   </a>
+  <a href="https://squizer.cz">
+    <img
+      alt="Website"
+      src="https://img.shields.io/badge/website-5865F2?logo=page&logoColor=white&style=for-the-badge"
+    />
 </p>
